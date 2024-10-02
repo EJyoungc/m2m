@@ -2,8 +2,7 @@
 ## **Your Link to a Tech Revolution**
 
 
-
-# 🩺 **HIV, TB & Infant Care Management System**
+# 🩺 **MediMothers: HIV, TB & Infant Care Management System**
 
 An all-in-one system designed to streamline care for **HIV-positive mothers and their infants**, focusing on **medication adherence**, **TB screening**, and **infant health tracking**. With powerful features and multi-platform support, this system enhances patient care and improves health outcomes.
 
@@ -11,7 +10,7 @@ An all-in-one system designed to streamline care for **HIV-positive mothers and 
 - **HIV Management**: Medication scheduling, viral load & CD4 monitoring, appointment reminders.
 - **TB Screening**: Automated TB screening & test reminders for both mothers and infants.
 - **Infant Care**: Early HIV testing, vaccination schedules, growth & development tracking.
-- **Multi-Platform Reminders**: WhatsApp, Telegram, SMS, and .
+- **Multi-Platform Reminders**: WhatsApp, Telegram, SMS, and more.
 
 ### ⚙️ **Tech Stack**
 - Secure **database management** with encrypted data storage.

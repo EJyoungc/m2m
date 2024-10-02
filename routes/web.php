@@ -4,6 +4,11 @@ use App\Http\Controllers\TelegramBotController;
 use Illuminate\Support\Facades\Route;
 use Telegram\Bot\Laravel\Facades\Telegram;
 
+use App\Http\Controllers\WhatsAppWebhookController;
+
+Route::post('/whatsapp/webhook', [WhatsAppWebhookController::class, 'handleWebhook']);
+
+
 // Route::get('/setWebhook', function () {
 //     $url = 'https://05d7-209-198-133-113.ngrok-free.app/telegram/webhook'; // Replace with your ngrok URL
 //     Telegram::setWebhook(['url' => $url]);

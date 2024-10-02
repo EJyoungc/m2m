@@ -5,7 +5,8 @@
         <div class="login-header login-caret">
             <div class="login-content">
                 <a href="index.html" class="logo">
-                    <img src="{{url('assets/images/imageedit_1_7402545364.png')}}" width="120" alt="" />
+                    {{-- <img src="{{url('assets/images/imageedit_1_7402545364.png')}}" width="120" alt="" /> --}}
+                    <img src="{{url('assets/images/gif/Logo.gif')}}" width="120" alt="" />
                 </a>
                 <p class="description">
                 <h3 style="color:white">Login</h3>

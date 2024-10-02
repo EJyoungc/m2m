@@ -9,6 +9,7 @@
                     <img src="{{url('assets/images/gif/Logo.gif')}}" width="120" alt="" />
                 </a>
                 <p class="description">
+                <h2 style="color:white" >MediMothers</h2>
                 <h3 style="color:white">Login</h3>
                 </p>
                 <!-- progress bar indicator -->

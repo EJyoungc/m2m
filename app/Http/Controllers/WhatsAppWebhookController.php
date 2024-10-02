@@ -42,11 +42,11 @@ class WhatsAppWebhookController extends Controller
         
 
         // Handle webhook data (POST request)
-        $data = $request->all();
+        // $data = $request->all();
 
         // Process the messages or event data...
         // (as shown in step 2)
 
-        return response()->json(['status' => 'success'], 200);
+        // return response()->json(['status' => 'success'], 200);
     }
 }

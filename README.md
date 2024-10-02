@@ -6,7 +6,7 @@ An all-in-one system designed to streamline care for **HIV-positive mothers and 
 - **HIV Management**: Medication scheduling, viral load & CD4 monitoring, appointment reminders.
 - **TB Screening**: Automated TB screening & test reminders for both mothers and infants.
 - **Infant Care**: Early HIV testing, vaccination schedules, growth & development tracking.
-- **Multi-Platform Reminders**: WhatsApp, Telegram, SMS, and calendar app integration.
+- **Multi-Platform Reminders**: WhatsApp, Telegram, SMS, and .
 
 ### ⚙️ **Tech Stack**
 - Secure **database management** with encrypted data storage.
@@ -19,8 +19,8 @@ This system improves **medication adherence**, reduces **HIV transmission risk**
 ---
 
 ### 🌐 **Connect with me**
-- **GitHub**: [github.com/yourusername](https://github.com/EJyoungc)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/elijah-kawinga)
+- **GitHub**: [github.com/EJyoungc](https://github.com/EJyoungc)
+- **LinkedIn**: [linkedin.com/in/elijah-kawinga](https://www.linkedin.com/in/elijah-kawinga)
 <!-- - **Portfolio**: [yourportfolio.com](https://yourportfolio.com) -->
 
 It's a user-friendly solution designed to make a real difference in healthcare!

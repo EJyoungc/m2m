@@ -37,7 +37,7 @@ class WhatsAppWebhookController extends Controller
             } else {
                 // return response('',403);
             }
-        }
+        // }
 
         // Handle webhook data (POST request)
         $data = $request->all();

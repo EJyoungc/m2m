@@ -1,5 +1,5 @@
 ![TechLink 360 Logo](./assets/Techlink.png)
-**Your Link to a Tech Revolution**
+## **Your Link to a Tech Revolution**
 
 # 🩺 **HIV, TB & Infant Care Management System**
 

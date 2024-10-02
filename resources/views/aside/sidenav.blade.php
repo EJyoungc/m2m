@@ -7,7 +7,8 @@
             <!-- logo -->
             <div class="logo">
                 <a href="index.html">
-                    <img src="assets/images/gif/Logo.gif" width="120" alt="" />
+                    <img src="assets/images/gif/Logo.gif" width="60" alt="" />
+                    <div>MediMothers</div>
                     {{-- <img src="assets/images/log.jpg" width="120" alt="" /> --}}
                 </a>
             </div>

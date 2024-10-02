@@ -6,7 +6,7 @@ use Telegram\Bot\Laravel\Facades\Telegram;
 
 use App\Http\Controllers\WhatsAppWebhookController;
 
-Route::post('/whatsapp/webhook', [WhatsAppWebhookController::class, 'handleWebhook']);
+Route::get('/whatsapp/webhook', [WhatsAppWebhookController::class, 'handleWebhook']);
 
 
 // Route::get('/setWebhook', function () {

@@ -1,0 +1,45 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+
+
+.invalid-feedback{
+    padding-bottom: 5px;
+    color:red;
+}
+.panel-fullscreen{
+   display: block;
+   z-index: 9999;
+   position: fixed;
+   height: 100%;
+   width:100%;
+   top:0;
+   right:0;
+   left: 0;
+   bottom: 0;
+   overflow: auto;
+
+}
+/* th, td {
+    white-space: nowrap;
+} */
+/* div.dataTables_wrapper{
+    width:800px;
+    margin:0 auto;
+} */
+
+.bg-primary{
+    background-color: lightskyblue;
+    color: white;
+}
+
+.tile-clickable{
+    cursor: pointer;
+}
+.tile-click{
+    cursor: pointer;
+}
+

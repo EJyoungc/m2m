@@ -4,8 +4,14 @@ use App\Http\Controllers\TelegramBotController;
 use Illuminate\Support\Facades\Route;
 use Telegram\Bot\Laravel\Facades\Telegram;
 
+// Route::get('/setWebhook', function () {
+//     $url = 'https://05d7-209-198-133-113.ngrok-free.app/telegram/webhook'; // Replace with your ngrok URL
+//     Telegram::setWebhook(['url' => $url]);
+//     return 'Webhook set!';
+// });
+
 Route::get('/setWebhook', function () {
-    $url = 'https://05d7-209-198-133-113.ngrok-free.app/telegram/webhook'; // Replace with your ngrok URL
+    $url = 'https://micromek.net/m2m/telegram/webhook'; // Replace with your ngrok URL
     Telegram::setWebhook(['url' => $url]);
     return 'Webhook set!';
 });

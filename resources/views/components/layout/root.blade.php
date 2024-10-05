@@ -9,11 +9,15 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
-
+        <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+        <link rel="stylesheet" href="{{ asset('build/assets/app-C2nvNp_v.css') }}">
         <!-- Styles -->
-        @vite(['resources/css/app.css', 'resources/js/app.js']) <!-- Use Vite directive here -->
+        {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) <!-- Use Vite directive here --> --}}
     </head>
     <body class="bg-light font-sans antialiased ">
         {{ $slot }}
+
+        <script src="{{ asset('build/assets/app-z-Rg4TxU.js') }}"></script>
+
     </body>
 </html>

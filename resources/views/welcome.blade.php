@@ -5,11 +5,11 @@
                 <a href="/">MediMothers</a>
             </div>
             <div class="hidden md:flex space-x-4">
-                <a href="/" aria-label="Home" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Home</a>
+                {{-- <a href="/" aria-label="Home" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Home</a>
                 <a href="/about" aria-label="About" class="text-white hover:bg-custom-teal px-3 py-2 rounded">About</a>
                 <a href="/services" aria-label="Services" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Services</a>
                 <a href="/resources" aria-label="Resources" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Resources</a>
-                <a href="/contact" aria-label="Contact" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Contact</a>
+                <a href="/contact" aria-label="Contact" class="text-white hover:bg-custom-teal px-3 py-2 rounded">Contact</a> --}}
             </div>
             <div class="md:hidden">
                 <button id="menu-toggle" class="text-white focus:outline-none" aria-label="Toggle mobile menu">
@@ -20,11 +20,11 @@
             </div>
         </div>
         <div id="mobile-menu" class="md:hidden hidden">
-            <a href="/" aria-label="Home" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Home</a>
+            {{-- <a href="/" aria-label="Home" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Home</a>
             <a href="/about" aria-label="About" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">About</a>
             <a href="/services" aria-label="Services" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Services</a>
             <a href="/resources" aria-label="Resources" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Resources</a>
-            <a href="/contact" aria-label="Contact" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Contact</a>
+            <a href="/contact" aria-label="Contact" class="block text-white hover:bg-custom-teal px-3 py-2 rounded">Contact</a> --}}
         </div>
     </nav>
 

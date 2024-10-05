@@ -7,7 +7,8 @@ use Telegram\Bot\Laravel\Facades\Telegram;
 use App\Http\Controllers\WhatsAppWebhookController;
 
 Route::get('/whatsapp/webhook', [WhatsAppWebhookController::class, 'handleWebhook']);
-
+Route::post('/whatsapp/webhook', [WhatsAppWebhookController::class, 'test']);
+// Route::post('/whatsapp/webhook/send', [WapController::class, 'notify']);
 
 // Route::get('/setWebhook', function () {
 //     $url = 'https://05d7-209-198-133-113.ngrok-free.app/telegram/webhook'; // Replace with your ngrok URL
@@ -28,7 +29,8 @@ Route::post('/telegram/webhook',[TelegramBotController::class,'handleWebhook'])-
 
 
 Route::get('/', function () {
-    return redirect('/login');
+    // return redirect('/login');
+    return view('welcome');
 });
 
 Route::middleware([
